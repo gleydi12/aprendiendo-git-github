@@ -1,0 +1,2 @@
+Estamos aprendiendo con Git con Github
+Es una heramienta que todos debemos aprender a usar
